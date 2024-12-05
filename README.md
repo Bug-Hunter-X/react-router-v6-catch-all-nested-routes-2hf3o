@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using catch-all routes (`*`) in React Router v6, specifically when nested within other routes. The problem arises because nested routes with the `*` path matcher prevent other routes from properly matching paths.
